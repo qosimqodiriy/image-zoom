@@ -7,7 +7,7 @@ Pure JavaScript utility for desktop browsers for image zoom on mouse hover. No e
 
 ## Demo
 
-[Demo](http://malaman.github.io/js-image-zoom/example)
+[Demo](https://qosimqodiriy.github.io/image-zoom/)
 
 
 ## Install
@@ -54,7 +54,7 @@ new ImageZoom(document.getElementById("img-container"), options2);
 ```
 
 Check basic example in browser:
-[Basic Example](http://malaman.github.io/js-image-zoom/example/basic.html)
+[Basic Example](https://qosimqodiriy.github.io/image-zoom/example/basic.html)
 
 ## Arguments
 
